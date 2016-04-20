@@ -1,4 +1,4 @@
-# celery_remote_test
+# Celery Remote Test
 
 ## Start celeries
 
